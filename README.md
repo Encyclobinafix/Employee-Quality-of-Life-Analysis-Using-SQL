@@ -132,7 +132,7 @@ The remark column can be seen to have been successfully added to the table.
 - The analysis carried out was able to categorize the quality of life of employees based on several ratings. This can give the company an overview on how many employees are doing well in terms of their quality of life and how many employees are doing poorly.
 - A deeper drilldown into the data can be done to fish out employees with poor quality of life in order to investigat factors contributing to this.
 - Employees who are Senior Analysts, Software Consultants Python, and/or Associate Consultants topped the chart of job titles with an average work_life_balance and Salary_and_benefits rating of 4 and 4.5 respectively. We can carry out more investigation to check how this relates to their performance at work.
-- We can narrow down the data to get the exact number of employees with excellent, good, and poor ratings and use this information to get an overview on whether or not the majority of employees have a good quality of life and satisfied with their jobs.
+- We can narrow down the data to get the exact number of employees with excellent, good, and poor ratings and use this information to get an overview on whether or not the majority of employees have a good quality of life and are satisfied with their jobs.
 
 Thank You. 😄
 - 
