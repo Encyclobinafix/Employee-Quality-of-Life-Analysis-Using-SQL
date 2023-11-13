@@ -128,6 +128,14 @@ The remark column can be seen to have been successfully added to the table.
 
 ![](T2-STEP14-2.png)
 
+
+### Additional Question - Task 3
+Showing the average yearly increment for employees with an average yearly increment greater than 5000 in each department (referencing a different data set).
+
+![](T3_STEP_Q3.png)
+
+
+
 ## Conclusion:
 - The analysis carried out was able to categorize the quality of life of employees based on several ratings. This can give the company an overview on how many employees are doing well in terms of their quality of life and how many employees are doing poorly.
 - A deeper drilldown into the data can be done to fish out employees with poor quality of life in order to investigat factors contributing to this.
